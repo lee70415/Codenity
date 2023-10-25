@@ -16,3 +16,15 @@
     color:white;
     cursor:pointer;
 }
+
+. title{
+    margin: 100px;
+    border: 200px;
+}
+
+.form{
+    color: white;
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+}
